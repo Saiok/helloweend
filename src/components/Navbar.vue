@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex items-center justify-between container pt-10">
+  <nav class="flex items-center justify-between pt-10">
     <div class="flex space-x-2 items-center">
       <h1 class="text-white font-bold text-2xl leading-9">
         Hallow<span class="text-secondary">ee</span>nd
