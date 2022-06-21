@@ -16,14 +16,14 @@
 
   <section class="flex items-end justify-center space-x-4 mb-24">
     <div class="w-1/2">
-      <img src="../assets/images/category2-img.webp" alt="category2" />
+      <img src="../assets/images/category/category2-img.webp" alt="category2" />
     </div>
     <div class="w-1/2 pr-24">
       <div class="text-6xl text-white">
         <h2 class="font-bold">What's that</h2>
         <div class="flex items-center space-x-3">
           <h2 class="font-bold">Halloween</h2>
-          <img class="mt-5" src="../assets/images/head2.webp" alt="head2" />
+          <img class="mt-5" src="../assets/images/category/head2.webp" alt="head2" />
         </div>
         <p class="text-[25px] leading-[35px] w-[80%]">
           Halloween or Hallowe'en, also known as Allhalloween, All Hallows' Eve,
@@ -36,9 +36,9 @@
 </template>
 
 <script setup>
-import category1 from "../assets/images/category1.png";
-import category2 from "../assets/images/category2.png";
-import category3 from "../assets/images/category3.png";
+import category1 from "../assets/images/category/category1.png";
+import category2 from "../assets/images/category/category2.png";
+import category3 from "../assets/images/category/category3.png";
 
 const categories = [
   {

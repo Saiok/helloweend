@@ -1,5 +1,5 @@
 <template>
-  <section id="home" class="-mt-5 px-10">
+  <section id="home" class="px-10">
       <div class="flex items-center justify-between">
         <div class="text-6xl text-white font-bold w-1/2">
           <div class="flex items-center space-x-3">

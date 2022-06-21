@@ -19,6 +19,15 @@ module.exports = {
         },
         secondary: "#ff693a",
       },
+      keyframes: {
+        "move-tot": {
+          "0%": { transform: "translateY(0)" },
+          "100%": { transform: "translateY(-30px)" },
+        },
+      },
+      animation: {
+        "move-tot": "move-tot 300ms ease",
+      },
     },
   },
   plugins: [],
